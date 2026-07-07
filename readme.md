@@ -74,7 +74,7 @@ It then recommends gifts that feel thoughtful, personal, and emotionally relevan
 
 **Figma Prototype**
 
-(https://www.figma.com/make/pBuapEehIpa0ZSJkiSYEd7/Emotional-Gifting-Guide-Character?t=fY7INom3bnsxUBVm-1)
+https://www.figma.com/make/pBuapEehIpa0ZSJkiSYEd7/Emotional-Gifting-Guide-Character?t=fY7INom3bnsxUBVm-1
 ---
 
 ## 🛠️ Product Thinking
