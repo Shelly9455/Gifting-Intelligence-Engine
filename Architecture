@@ -1,0 +1,32 @@
+"# Architecture
+
+## High-Level System Architecture
+
+```
+                        User
+                          │
+                          ▼
+               Conversational UI (Web/Mobile)
+                          │
+                          ▼
+              User Context Collection Engine
+                          │
+                          ▼
+            Emotional Signal Extraction Layer
+                          │
+                          ▼
+              Gift Intelligence Engine
+                          │
+         ┌────────────────┴────────────────┐
+         ▼                                 ▼
+Relationship & Context              Gift Knowledge Base
+        Engine                             │
+         └────────────────┬────────────────┘
+                          ▼
+                AI Recommendation Engine
+                          │
+                          ▼
+               Recommendation Explanation
+                          │
+                          ▼
+                  Personalized Gift List"
